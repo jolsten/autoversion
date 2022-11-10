@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: autovers
+Version: 0.1.dev0
+Summary: Generate badges for tools that do not provide one.
+Author: John Smith <John.Smith@NotReal.com>
+Maintainer: John Smith <John.Smith@NotReal.com>
+License: MIT
+Keywords: commandline cli generate badge shield svg flake8 pytest test coverage markdown
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Education
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Information Technology
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3.8
+Provides-Extra: tests
+Provides-Extra: coverage
+Provides-Extra: flake8
+Provides-Extra: all
